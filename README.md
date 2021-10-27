@@ -1,7 +1,7 @@
 
 ## Hey, Uxx here! :wave:
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hahahahx&bg_color=30,%230175C2,%2302569B&title_color=fff&text_color=fff">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hahahahx&bg_color=30,0377ef,2883d1&title_color=fff&text_color=fff">
 
 
 - 👋 Hi, I’m @Hahahahx
