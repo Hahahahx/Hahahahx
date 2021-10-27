@@ -11,7 +11,7 @@
 
 <br/>
 
-## I'm leaning : 
+-------
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -25,14 +25,8 @@
 ![redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-764ABC?style=for-the-badge&logo=golang&logoColor=white)
 
-<!---
-Hahahahx/Hahahahx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![](https://github-readme-stats.vercel.app/api?username=Hahahahx)
 
-
-
+-------
 
 ![](https://raw.githubusercontent.com/Hahahahx/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Hahahahx/github-stats-transparent/output/generated/languages.svg)
