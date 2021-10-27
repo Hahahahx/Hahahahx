@@ -25,7 +25,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-764ABC?style=for-the-badge&logo=golang&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-%23FF6F00?style=for-the-badge&logo=go&logoColor=white)
 
 
 ![](https://raw.githubusercontent.com/Hahahahx/github-stats-transparent/output/generated/overview.svg)
