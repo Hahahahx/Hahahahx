@@ -4,10 +4,12 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hahahahx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 - 👋 Hi, I’m @Hahahahx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in 🏀/🎮/⌨/🎵
+- 🌱 I’m currently learning Go/C/Linux
+- 💞️ I’m looking to collaborate on FE
+- 📫 How to reach me 1219654535@qq.com
+
+<br/>
 
 ## I'm leaning : 
 
@@ -21,6 +23,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-764ABC?style=for-the-badge&logo=golang&logoColor=white)
 
 <!---
 Hahahahx/Hahahahx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
