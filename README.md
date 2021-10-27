@@ -1,12 +1,15 @@
 
+## Hey, Uxx here! :wave:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hahahahx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">]
+
 - 👋 Hi, I’m @Hahahahx
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+## I'm leaning : 
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
